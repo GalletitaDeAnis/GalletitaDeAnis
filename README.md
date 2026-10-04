@@ -4,21 +4,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Fullstack+Engineer+Done+Right;TS+%7C+Rust+%7C+C%2B%2B+%7C+Java;Building+Simulations+%26+Web+Apps;Do+you+have+cookies+for+me%3F+%F0%9F%8D%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Open+to+remote+work;TypeScript+developer;Contributing+to+Grafana+and+Umami;Do+you+have+cookies+for+me%3F+%F0%9F%8D%AA" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  
-  **Code, Design, & Cookies 🍪.** Fullstack Engineer (TS/Rust/C++). Founder @ **P.P. Studio**.  
-  building simulations & web apps. Open to work.
+
+  **Open to remote work.** TypeScript developer. Contributing to Grafana and Umami.  
+  Founder @ **P.P. Studio**. Do you have cookies for me? 🍪
 
   <br/>
 
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:paolopizarro685@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-Contact-2094f3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/paolo-pizarro-arispe-7302512b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.paolopizarrostudio.studio/">
@@ -33,11 +33,10 @@
 
 ### 👨‍💻 About Me
 
-I am a **Fullstack Engineer** with a deep understanding of the entire software lifecycle. From crafting pixel-perfect UX/UI to managing VLANs and Docker containers, I build robust, scalable solutions.
+I am a TypeScript developer looking for remote work. I also use React, Next.js, and Supabase, and I have some Rust and C++.
 
-* 🔭 I’m currently working on **Simulation Systems & High-performance Web Apps**.
-* 🍪 I love turning coffee and cookies into clean code.
-* ⚙️ **Engineering mindset:** I don't just write code; I design architectures, manage infrastructure (Azure/Networks), and ensure safety-critical logic (Rust/C++).
+* 🔭 Open changes: [Grafana](https://github.com/grafana/grafana/pull/134104) and [Umami](https://github.com/umami-software/umami/pull/4595).
+* 🍪 I still like cookies.
 
 ---
 
@@ -45,27 +44,15 @@ I am a **Fullstack Engineer** with a deep understanding of the entire software l
 
 <div align="center">
 
-<h3>🎨 Frontend & UX/UI</h3>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-<h3>⚙️ Backend & Systems</h3>
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
-<h3>☁️ Data, Cloud & Infra</h3>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Networks_&_VLANs-black?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 </div>
 
