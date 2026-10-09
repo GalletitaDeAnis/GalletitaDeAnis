@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/paolo-pizarro-arispe-7302512b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.paolopizarrostudio.studio/">
+  <a href="https://www.paolopizarro.studio/">
     <img src="https://img.shields.io/badge/Portfolio-P.P._Studio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
